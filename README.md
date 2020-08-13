@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning React.js, AWS
 - 👫 I enjoy working in passionate team
-  \_ 🔭 I love exploring new areas, obtaining new skills and improving existing ones
+- 🔭 I love exploring new areas, obtaining new skills and improving existing ones
 - ⚡ Fun fact: I love cross stitching and creating patterns for it
 
 ### Connect with me:
