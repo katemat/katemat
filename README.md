@@ -29,6 +29,8 @@
 <img align="left" alt="Ruby" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img align="left" alt="Postgresql" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
+---
+
 ## Github Stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=katemat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
