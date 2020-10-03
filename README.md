@@ -29,7 +29,7 @@
 <img align="left" alt="Ruby" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img align="left" alt="Postgresql" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
----
+<br></br>
 
 ## Github Stats
 
