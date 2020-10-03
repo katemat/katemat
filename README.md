@@ -1,4 +1,4 @@
-### Hi there, I'm Katerina 👋
+# Hi there, I'm Katerina 👋
 
 ## I'm a Full Stack Developer!
 
