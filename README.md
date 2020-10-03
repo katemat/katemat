@@ -29,4 +29,5 @@
 <img align="left" alt="Ruby" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img align="left" alt="Postgresql" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
-![Katerina Github Stats](https://github-readme-stats.vercel.app/api?username=katemat&show_icons=true&text_color=044e53&bg_color=88ebf2)
+<br/>
+![Katerina Github Stats](https://github-readme-stats.vercel.app/api?username=katemat&show_icons=true&title_color=044e53&icon_color=79ff97&text_color=9f9f9f&bg_color=bff8fd)
