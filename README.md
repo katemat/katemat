@@ -29,6 +29,7 @@
 <img align="left" alt="Ruby" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/>
 <img align="left" alt="Postgresql" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
-<!-- ![Katerina Github Stats](https://github-readme-stats.vercel.app/api?username=katemat&show_icons=true&title_color=044e53&icon_color=149199&text_color=617d98f&bg_color=e0fcff) -->
+## Github Stats
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=katemat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katemat&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=katemat&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katemat&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
