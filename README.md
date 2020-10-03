@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/Ink-23730.mp4)[http://kate-matveeva.surge.sh/]
+[![Header](https://github.com/adamalston/adamalston/raw/master/Ink-23730.mp4)](http://kate-matveeva.surge.sh/)
 
 ### Hi there, I'm Katerina 👋
 
